@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Git ignore temporary previews
+preview_*.png
